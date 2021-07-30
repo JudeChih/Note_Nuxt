@@ -1,0 +1,27 @@
+{
+  "name": "nuxt_note",
+  "version": "1.0.0",
+  "description": "Nuxt研究手冊",
+  "author": "Toby",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "bootstrap": "^5.0.2",
+    "element-ui": "^2.4.11",
+    "jquery": "^3.6.0",
+    "jsdom": "^16.6.0",
+    "nuxt": "^2.0.0",
+    "popper.js": "^1.16.1",
+    "sass": "^1.26.10",
+    "sass-loader": "^8.0.2"
+  },
+  "devDependencies": {
+    "pug": "^3.0.2",
+    "pug-plain-loader": "^1.1.0"
+  }
+}
